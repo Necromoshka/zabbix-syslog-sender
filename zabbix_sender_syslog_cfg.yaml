@@ -1,0 +1,6 @@
+api:
+   ip: '<123.123.123.123>'
+   user: '<apiuser>'
+   password: '<apipassword>'
+   server: '<http://123.123.123.123/zabbix/'
+
